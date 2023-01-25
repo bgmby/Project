@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ANA SAYFA-Firma İsmi</title>
+  </head>
+  <body>
+    <!--Navbar - Start-->
+    <header>
+      <nav>
+        <ul>
+          <li>
+            <a href="index.html">Ana Sayfa</a>
+          </li>
+          <li>
+            <a href="about-us.html">Hakkımızda</a>
+          </li>
+          <li>
+            <a href="contact.html">İletişim</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <!--Navbar - End-->
+
+    <!--Content - Start-->
+    <section>
+      <!--Articles - Start-->
+      <article>
+        <h2>Birinci Yazı</h2>
+        <img height="200" weight="200" src="https://picsum.photos/id/237/600/300" alt="Yazı Bir" />
+
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque,
+          beatae.
+        </p>
+        <p>
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fuga
+          reiciendis suscipit nobis expedita recusandae animi at natus. Ullam
+          adipisci ea suscipit, cumque in porro ipsam natus placeat amet
+          mollitia laboriosam!
+        </p>
+        <p>
+          Ad sunt voluptatum possimus, quibusdam porro iure natus reiciendis,
+          dolore blanditiis consequatur quos, atque unde corrupti nihil.
+          Voluptatibus molestiae fugit pariatur officia quasi. Quisquam,
+          molestiae. Earum enim consectetur libero quasi!
+        </p>
+        <p>
+          A optio inventore excepturi asperiores quasi earum praesentium!
+          Voluptatibus veritatis ea a fugit consequuntur ut neque iure! Minima
+          tempore dolore atque. Incidunt totam praesentium temporibus est
+          accusamus error laboriosam deleniti.
+        </p>
+        <hr>
+      </article>
+       <article>
+        
+        <h2>İkinci Yazı</h2>
+        <img src="https://picsum.photos/id/27/600/300" alt="Yazı İkinci"
+        <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam odio tempora neque earum minus a distinctio, molestiae qui possimus repellendus ad eos? Voluptatum earum sint possimus natus quas repellat vel!
+        Reprehenderit ipsam sint ratione, pariatur ullam nulla at ex, laboriosam et inventore distinctio reiciendis autem ut perspiciatis non earum sit quas cum consectetur! Voluptatibus sit, tenetur velit officia suscipit eum?
+        Vel fugit eligendi mollitia? Eius ducimus esse maxime exercitationem officiis adipisci, quod optio corporis velit maiores vero quia quae consequuntur ipsum debitis deserunt, laboriosam sunt perferendis, nostrum inventore nemo temporibus!
+        Architecto praesentium illo, minus eum vel velit totam ipsa saepe blanditiis dignissimos hic voluptatem? Omnis temporibus reprehenderit ad pariatur deleniti suscipit assumenda ducimus quam sequi quibusdam. Quis magnam hic ducimus.
+        Quam neque dolorum quidem? Ex, pariatur nam. Asperiores officiis alias possimus nisi ex. Inventore nesciunt sint qui error nemo, hic neque ipsa obcaecati. Numquam dicta voluptate blanditiis autem sapiente et?
+        </p>
+        <hr>
+       </article>
+       <article>
+        <h2>Üçüncü Yazı</h2>
+        <img src="https://picsum.photos/id/57/600/300" alt="Yazı Üçüncü"
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestias consectetur error provident facere deleniti quasi, quam odio consequuntur eligendi? Magni, eius omnis beatae illo praesentium deserunt doloremque culpa corporis expedita!
+        Sunt a, possimus quidem explicabo praesentium sit perspiciatis ex qui atque nostrum vero adipisci eligendi placeat laboriosam enim libero nesciunt pariatur itaque rerum molestiae modi cum. Rerum sequi eligendi iste!
+        Officiis recusandae deleniti, ratione aliquid debitis facilis laborum unde, asperiores quae labore laudantium quo fuga temporibus est dolores voluptate natus nihil. Eos exercitationem animi similique voluptas culpa? Deleniti, nulla laboriosam.
+        Mollitia asperiores id quia, officia adipisci nulla fuga ex quaerat error non laudantium in repudiandae dolorum odit cum delectus, sequi voluptas consequatur. Pariatur aperiam autem doloremque officiis nisi itaque adipisci.
+        Esse unde doloribus nobis soluta voluptate, perferendis accusantium eum in tenetur et corporis similique excepturi cum possimus placeat non. Consequuntur deleniti expedita vero, atque numquam eveniet nam explicabo vitae sit.
+        </p> 
+        <hr>
+       </article>
+
+      <!--Articles - End-->
+      <!--Content - End-->
+    </section>
+    <!--Footer - Start-->
+    <footer>
+        <nav>
+            <ul>
+              <li>
+                <a href="index.html">Ana Sayfa</a>
+              </li>
+              <li>
+                <a href="about-us.html">Hakkımızda</a>
+              </li>
+              <li>
+                <a href="contact.html">İletişim</a>
+              </li>
+            </ul>
+          </nav>
+    </footer>
+    <!--Footer - End-->
+  </body>
+</html>
