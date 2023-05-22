@@ -1,0 +1,12 @@
+h1 {
+  font-family: sans-serif;
+  font-size: medium;
+  text-align: center;
+}
+
+Image {
+  size: 20px;
+  object-fit: cover;
+  height: 200;
+  width: 200;
+}
